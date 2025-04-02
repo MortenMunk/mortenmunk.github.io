@@ -92,6 +92,14 @@ li {
   border-radius: 10px;
   border: 1px solid #b8bb26;
   box-shadow: 0 4px 5px rgba(184, 187, 38, 0.4);
+  overflow: hidden;
+}
+
+.right img {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 2% auto;
 }
 
 .about {
